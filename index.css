@@ -109,3 +109,7 @@ img {
   border: 10px solid red;
   box-sizing: border-box;
 }
+button {
+  text-decoration: underline;
+  cursor: pointer;
+  }
